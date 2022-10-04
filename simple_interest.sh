@@ -1,4 +1,4 @@
- #!/bin/bash
+ #!<Latif Driza>
    # This script calculates simple interest given principal,
    # annual rate of interest and time period in years.
 
